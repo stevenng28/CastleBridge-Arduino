@@ -1,8 +1,8 @@
 #ifndef ADD_H
 #define ADD_H
 
-static const char wifiName[] = "mynewnet";
-static const char wifiPass[] = "dfspoemail";
-static const String urlRecord = "protected-chamber-47366.herokuapp.com/record";
+static const char wifiName[] = "wifiname";
+static const char wifiPass[] = "wifipass";
+static const String urlRecord = "url/record";
 
 #endif /* CastleBridgeSettings.h */
